@@ -1,3 +1,5 @@
+Git sama saja dengan Version Control Sistem
+
 Istilah - istilah pada github
 - repo = folder project
 - commit = rekaman ubah pada folder atau file 

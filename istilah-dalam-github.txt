@@ -1,0 +1,11 @@
+Istilah - istilah pada github
+- repo = folder project
+- commit = rekaman ubah pada folder atau file 
+- hash = penanda unik pada sebuah commit
+- chechout = berpindah kesebuah commit
+- branch = cabang bebas
+- merge = menggabungkan branch
+- remote = seumber yang memiliki repo
+- clone = mengambil repo dari remote
+- push = mengirimkan commit ke repo
+- pull = mengambil commit ke repo

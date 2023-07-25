@@ -12,3 +12,20 @@ Istilah - istilah pada github
 - clone = mengambil repo dari remote
 - push = mengirimkan commit ke repo
 - pull = mengambil commit ke repo
+
+Istilah Git commit (local)
+- $ git init
+- $ git add <file>
+- $ git add .
+- $ git status
+- $ git commit
+- $ git config
+- $ git branch
+- $ git help
+- $ git rm --cached <file>
+- $ git config --global user.name "your name"\
+- $ git config --global user.email "your email"
+- $ git log
+- $ git log -3 (angka bebas)
+- $ git log --<file>
+- $ git chechkout (5 digit hash)
